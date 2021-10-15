@@ -1,0 +1,14 @@
+{
+  "name": "easyfirebaseConector",
+  "version": "1.0.0",
+  "description": "pacote desenvolvido com intuito de facilitar a conexão com o auth do firebase web 9.0v",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jako <https://github.com/Jacsonx>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.1.3"
+  }
+}
